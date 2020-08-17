@@ -3,7 +3,6 @@
 I have professional experience of 2 years. I am mostly using .NET, Java and Python. I enjoy learning new development techniques. I am interested in open-source projects. I develop Beneficial to people projects in my free time.
 
 
-<h3 align="center">A Software developer from Turkey</h3>
 
 - 🔭 I’m currently working on [Pathfinder-Obstacle-Detection](https://github.com/mehmetolg/Pathfinder-Obstacle-Detection)
 
