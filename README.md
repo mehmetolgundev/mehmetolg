@@ -6,7 +6,7 @@ I have professional experience of 2 years. I am mostly using .NET, Java and Pyth
 
 - 🔭 I’m currently working on [Pathfinder-Obstacle-Detection](https://github.com/mehmetolg/Pathfinder-Obstacle-Detection)
 
-<p align="center"><img src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" alt="android" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/csharp/csharp-original.svg" alt="csharp" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/dot-net/dot-net-original-wordmark.svg" alt="dotnet" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/java/java-original-wordmark.svg" alt="java" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" alt="python" width="40" height="40"/> <img src="https://devicons.github.io/devicon/devicon.git/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/> <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/></p>
+
 <p align="center"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mehmetolg&layout=compact&hide=html" alt="mehmetolg"/></p>
 
 <p align="center">
