@@ -1,14 +1,15 @@
-![](https://visitor-badge.glitch.me/badge?page_id=mehmetolgundev.mehmetolgundev)
+
 ### Hi there 👋
 I'm Mehmet Olgun Software development is my passion. I like to learn new technologies, programming languages, and frameworks. I work as a software engineer. 
 
-
+<p align="center">
  <a href="https://github.com/mehmetolgundev">
     <img src="https://badges.pufler.dev/visits/mehmetolgundev/mehmetolgundev?style=flat-square&color=black&logo=github">
   </a>
   <a href="https://github.com/mehmetolgundev?tab=repositories">
     <img src="https://badges.pufler.dev/repos/mehmetolgundev?style=flat-square&color=black&logo=github">
   </a>
+ </p>
 <p align="center"> <img src="https://github-readme-stats.vercel.app/api?username=mehmetolgundev&show_icons=true&theme=gotham" alt="mehmetolgundev" />
 
 <p align="center">
