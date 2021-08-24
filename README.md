@@ -1,6 +1,6 @@
 
 ### Hi there 👋
-I'm Mehmet Olgun Software development is my passion. I like to learn new technologies, programming languages, and frameworks. I work as a software engineer. 
+I'm  <a href="https://linkedin.com/in/mehmetolgundev">Mehmet Olgun</a>, Software development is my passion. I like to learn new technologies, programming languages, and frameworks. I work as a software engineer. 
 
 <p align="center">
  <a href="https://github.com/mehmetolgundev">
