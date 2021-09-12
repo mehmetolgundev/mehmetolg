@@ -1,7 +1,6 @@
 
 ### Hi there 👋
 ![](https://visitor-badge.glitch.me/badge?page_id=mehmetolgundev.mehmetolgundev)</br>
-I'm  <a href="https://linkedin.com/in/mehmetolgundev">Mehmet Olgun</a>.
 
 <p align="center">
 
